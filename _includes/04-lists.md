@@ -1,6 +1,6 @@
 1. Cheese
 2. Beef
 3. Tofu
-  1. Tofu 1
-  2. Beef
-  3. Cattle
+  3a. Tofu 1
+  3b. Beef
+  3c. Cattle
